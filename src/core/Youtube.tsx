@@ -1,3 +1,6 @@
+import { HugeiconsIcon } from '@hugeicons/react'; // El componente renderizador va aquí
+import { Youtube } from '@hugeicons/core-free-icons'; // El ícono actúa como un objeto de datos
+
 export function YoutubeIcon() {
   return (
     <svg 
